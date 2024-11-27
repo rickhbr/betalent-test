@@ -164,3 +164,10 @@ Se você estiver testando em um dispositivo físico, o dispositivo e o computado
 ### Formato e Validação de Dados da API
 - O aplicativo espera que os dados recebidos da API estejam no formato correto, como definido na estrutura do backend.
 - Certifique-se de que o arquivo `db.json` da API simulada está configurado adequadamente.
+
+## 📸 Mockup e Design
+O design foi baseado no projeto no Figma (substitua pelo link do mockup se houver).
+
+## 📩 Contato
+Rick Ramos
+[LinkedIn](https://www.linkedin.com/in/rick-ramos-00a94a138/) | rick.ramosbrr@gmail.com
