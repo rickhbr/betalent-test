@@ -125,11 +125,9 @@ Endpoint disponível:
 
 ## 🤝 Contribuição
 
-Se houver dúvidas ou problemas ao rodar o projeto, entre em contato via GitHub Issues.
+Se houver dúvidas ou problemas ao rodar o projeto, entre em contato via e-mail cadastrado no processo seletivo (rick.ramosbrr@gmail.com).
 
 ---
-
-Com este README e o script `run.sh`, o avaliador terá tudo o que precisa para rodar o projeto de forma simples e prática. Certifique-se de testar o script antes de enviar! 🚀
 
 ### Permissão para o script
 Antes de rodar o script pela primeira vez, garanta que ele tem permissão de execução:
