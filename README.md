@@ -20,7 +20,7 @@ Este repositório contém o projeto desenvolvido para o desafio técnico BeTalen
   - Telefone.
 
 ### Extras:
-- Splash Screen com animações (utilizando Lottie e Flutter Animations).
+- Splash Screen com animações (utilizando Flutter Animations).
 - Design responsivo e bem organizado.
 - API simulada para fornecer os dados do projeto.
 
