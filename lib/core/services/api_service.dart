@@ -5,7 +5,7 @@ class ApiService {
   final Dio _dio = Dio();
 
   ApiService() {
-    _dio.options.baseUrl = "http://192.168.1.35:3000";
+    _dio.options.baseUrl = "http://10.0.2.2:3000";
   }
 
   Future<List<EmployeeModel>> fetchEmployees() async {
