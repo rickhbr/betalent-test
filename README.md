@@ -48,7 +48,7 @@ Antes de começar, você precisa ter as ferramentas abaixo instaladas em sua má
 
 Abra o terminal e execute os comandos:
 ```bash
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/rickhbr/betalent-test)
+git clone https://github.com/rickhbr/betalent-test
 cd seu-repositorio
 ```
 
