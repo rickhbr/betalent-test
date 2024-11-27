@@ -170,4 +170,5 @@ O design foi baseado no projeto no Figma (substitua pelo link do mockup se houve
 
 ## 📩 Contato
 Rick Ramos
+
 [LinkedIn](https://www.linkedin.com/in/rick-ramos-00a94a138/) | rick.ramosbrr@gmail.com
